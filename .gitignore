@@ -2,3 +2,8 @@
 .environment
 .env
 
+# Pipfile
+Pipfile
+Pipfile.lock
+
+
